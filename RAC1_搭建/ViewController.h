@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  RAC1_搭建
+//  reactivecocoa_practise
 //
-//  Created by 吴书敏 on 16/10/21.
-//  Copyright © 2016年 littledogboy. All rights reserved.
+//  Created by ZangChengwei on 16/6/19.
+//  Copyright © 2016年 ZangChengwei. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
