@@ -9,3 +9,12 @@
 #import <Foundation/Foundation.h>
 
 
+void rac_playground();
+void subscribe();
+void tuple();
+void mapAndMapReplace();
+void reduceEach();
+void take();
+void sideEffect();
+
+
