@@ -17,6 +17,7 @@
 		6C28D17A1DBA168A00EA30BD /* RAC1___UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C28D1791DBA168A00EA30BD /* RAC1___UITests.m */; };
 		6C28D1891DBA352600EA30BD /* RACPlayGround.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C28D1881DBA352600EA30BD /* RACPlayGround.m */; };
 		6C585E0A1DBE26940097BE8B /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C585E091DBE26940097BE8B /* Launch Screen.storyboard */; };
+		6C585E0D1DBFA61A0097BE8B /* Lesson3.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C585E0C1DBFA61A0097BE8B /* Lesson3.m */; };
 		D3B2E0650ADEBAEFD3B532BB /* libPods-RAC1_搭建Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AB1DF046A4DB5FB59EEC5075 /* libPods-RAC1_搭建Tests.a */; };
 		E1C0731B476B4476D2142627 /* libPods-RAC1_搭建UITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4984C34E1E1799ABCD4DDE1E /* libPods-RAC1_搭建UITests.a */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,8 @@
 		6C28D1871DBA352600EA30BD /* RACPlayGround.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RACPlayGround.h; sourceTree = "<group>"; };
 		6C28D1881DBA352600EA30BD /* RACPlayGround.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RACPlayGround.m; sourceTree = "<group>"; };
 		6C585E091DBE26940097BE8B /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		6C585E0B1DBFA6190097BE8B /* Lesson3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lesson3.h; sourceTree = "<group>"; };
+		6C585E0C1DBFA61A0097BE8B /* Lesson3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Lesson3.m; sourceTree = "<group>"; };
 		AB1DF046A4DB5FB59EEC5075 /* libPods-RAC1_搭建Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RAC1_搭建Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2DA5BD26983DAD710DC6329 /* Pods-RAC1_搭建UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RAC1_搭建UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RAC1_搭建UITests/Pods-RAC1_搭建UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E4A04E4EC6EA0D312425493B /* Pods-RAC1_搭建UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RAC1_搭建UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RAC1_搭建UITests/Pods-RAC1_搭建UITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -140,6 +143,8 @@
 				6C28D15B1DBA168A00EA30BD /* ViewController.m */,
 				6C28D1871DBA352600EA30BD /* RACPlayGround.h */,
 				6C28D1881DBA352600EA30BD /* RACPlayGround.m */,
+				6C585E0B1DBFA6190097BE8B /* Lesson3.h */,
+				6C585E0C1DBFA61A0097BE8B /* Lesson3.m */,
 				6C28D15D1DBA168A00EA30BD /* Main.storyboard */,
 				6C28D1601DBA168A00EA30BD /* Assets.xcassets */,
 				6C585E091DBE26940097BE8B /* Launch Screen.storyboard */,
@@ -446,6 +451,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C585E0D1DBFA61A0097BE8B /* Lesson3.m in Sources */,
 				6C28D15C1DBA168A00EA30BD /* ViewController.m in Sources */,
 				6C28D1891DBA352600EA30BD /* RACPlayGround.m in Sources */,
 				6C28D1591DBA168A00EA30BD /* AppDelegate.m in Sources */,
